@@ -1,0 +1,6 @@
+for j in range(01,10):
+    for i in range(01,j+1):
+        num=j*i
+        print str(i)+'x'+str(j)+'='+str(num),
+        print ' ',
+    print 
